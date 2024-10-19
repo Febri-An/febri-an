@@ -21,13 +21,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/febri an" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="febri an" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/febri-an" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="febri an" height="30" width="40" /></a>
 <a href="https://instagram.com/ig_febrianjy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_febrianjy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,express,jquery,nodejs,react,py,flask,mysql,postgres,bash,bootstrap,docker,git,materialui,npm,postman,selenium,sklearn,matlab,ubuntu)
+![My Skills](https://skillicons.dev/icons?i=solidity,js,html,css,express,jquery,nodejs,react,py,flask,mysql,postgres,bash,bootstrap,docker,git,materialui,npm,postman,selenium,sklearn,matlab,ubuntu)
 
 <img>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=febri-an&show_icons=true&theme=dark&locale=en&layout=compact" alt="profil stats" />
