@@ -27,7 +27,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![My Skills](https://skillicons.dev/icons?i=solidity,js,html,css,express,jquery,nodejs,react,py,flask,mysql,postgres,bash,bootstrap,docker,git,materialui,npm,postman,selenium,sklearn,matlab,ubuntu)
+![My Skills](https://skillicons.dev/icons?i=solidity,js,py,html,css,react,jquery,bootstrap,materialui,nodejs,express,flask,mysql,postgres,bash,npm,docker,git,postman,selenium,ubuntu)
 
 <img>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=febri-an&show_icons=true&theme=dark&locale=en&layout=compact" alt="profil stats" />
