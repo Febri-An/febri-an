@@ -4,16 +4,16 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&font=Arial&size=35&duration=3000&pause=5000&color=2C9ACAFF&center=true&repeat=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Febri+An" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">A passionate full-stack developer from Indonesia</h3>
+<h3 align="center">A passionate smart contract developer from Indonesia</h3>
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=febri-an.febri-an)
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Smart contract audit**
 
-- 💬 Ask me about **React.js, Python, and SQL**
+- 💬 Ask me about **Blockchain, Smart contract, and Solidity**
 
 - 📫 How to reach me **febri.anjy.nirwana.354@gmail.com**
 
