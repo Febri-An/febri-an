@@ -15,6 +15,8 @@
 
 - 💬 Ask me about **Blockchain, Smart contract, and Solidity**
 
+- 🚀 Top project **DeFi Stablecoin, Cross-chain Rebase, Tabriiz Contract (Internship)**
+
 - 📫 How to reach me **febri.anjy.nirwana.354@gmail.com**
 
 - ⚡ Fun fact **I like working**
@@ -27,7 +29,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![My Skills](https://skillicons.dev/icons?i=solidity,js,py,html,css,react,jquery,bootstrap,materialui,nodejs,express,flask,mysql,postgres,bash,npm,docker,git,postman,selenium,ubuntu)
+![My Skills](https://skillicons.dev/icons?i=solidity,javascript,python,bash,html,css,react,nextjs,bootstrap,materialui,jquery,nodejs,express,flask,mysql,postgresql,supabase,git,docker,npm,postman,selenium,ubuntu)
 
 <img>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=febri-an&show_icons=true&theme=dark&locale=en&layout=compact" alt="profil stats" />
